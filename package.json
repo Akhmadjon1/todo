@@ -1,0 +1,25 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "To Do List",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhmadjon Zukhriddinov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhmadjon1/to-do-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akhmadjon1/to-do-list/issues"
+  },
+  "homepage": "https://github.com/Akhmadjon1/to-do-list#readme"
+}
